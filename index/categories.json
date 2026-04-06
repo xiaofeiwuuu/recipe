@@ -1,7 +1,7 @@
 {
   "total": 5,
-  "totalRecipes": 5565,
-  "updatedAt": "2026-04-06T14:20:36.370Z",
+  "totalRecipes": 5575,
+  "updatedAt": "2026-04-06T14:22:21.701Z",
   "categories": [
     {
       "id": "recai",
@@ -19,7 +19,7 @@
       "id": "tanggeng",
       "name": "汤羹",
       "parent": "常见菜式",
-      "total": 1555
+      "total": 1565
     },
     {
       "id": "zhushi",
