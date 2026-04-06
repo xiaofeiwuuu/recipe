@@ -1,7 +1,7 @@
 {
   "total": 5,
-  "totalRecipes": 3925,
-  "updatedAt": "2026-04-06T08:54:55.491Z",
+  "totalRecipes": 3935,
+  "updatedAt": "2026-04-06T08:57:40.077Z",
   "categories": [
     {
       "id": "recai",
@@ -13,7 +13,7 @@
       "id": "liangcai",
       "name": "凉菜",
       "parent": "常见菜式",
-      "total": 1910
+      "total": 1920
     },
     {
       "id": "tanggeng",
