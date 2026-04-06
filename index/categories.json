@@ -1,7 +1,7 @@
 {
   "total": 5,
-  "totalRecipes": 6760,
-  "updatedAt": "2026-04-06T18:51:37.322Z",
+  "totalRecipes": 6770,
+  "updatedAt": "2026-04-06T18:54:02.425Z",
   "categories": [
     {
       "id": "recai",
@@ -25,7 +25,7 @@
       "id": "zhushi",
       "name": "主食",
       "parent": "常见菜式",
-      "total": 755
+      "total": 765
     },
     {
       "id": "xiaochi",
