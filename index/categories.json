@@ -1,55 +1,55 @@
 {
   "total": 8,
-  "totalRecipes": 11457,
-  "updatedAt": "2026-04-07T14:39:01.449Z",
+  "totalRecipes": 8731,
+  "updatedAt": "2026-04-07T14:40:49.235Z",
   "categories": [
+    {
+      "id": "xican",
+      "name": "沙拉",
+      "parent": "常见菜式",
+      "total": 0
+    },
     {
       "id": "recai",
       "name": "热菜",
       "parent": "常见菜式",
-      "total": 2000
+      "total": 1581
     },
     {
       "id": "liangcai",
       "name": "凉菜",
       "parent": "常见菜式",
-      "total": 2000
+      "total": 1400
     },
     {
       "id": "tanggeng",
       "name": "汤羹",
       "parent": "常见菜式",
-      "total": 2000
+      "total": 1484
     },
     {
       "id": "zhushi",
       "name": "主食",
       "parent": "常见菜式",
-      "total": 2000
+      "total": 1471
     },
     {
       "id": "xiaochi",
       "name": "小吃",
       "parent": "常见菜式",
-      "total": 1943
+      "total": 1575
     },
     {
       "id": "jiachang",
       "name": "家常菜",
       "parent": "常见菜式",
-      "total": 334
+      "total": 284
     },
     {
       "id": "jiangpaoyancai",
       "name": "泡酱腌菜",
       "parent": "常见菜式",
-      "total": 1000
-    },
-    {
-      "id": "xican",
-      "name": "西餐",
-      "parent": "常见菜式",
-      "total": 180
+      "total": 936
     }
   ]
 }
