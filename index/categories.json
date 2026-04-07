@@ -1,7 +1,7 @@
 {
-  "total": 7,
-  "totalRecipes": 11277,
-  "updatedAt": "2026-04-07T13:50:40.620Z",
+  "total": 8,
+  "totalRecipes": 11287,
+  "updatedAt": "2026-04-07T13:58:15.195Z",
   "categories": [
     {
       "id": "recai",
@@ -44,6 +44,12 @@
       "name": "泡酱腌菜",
       "parent": "常见菜式",
       "total": 1000
+    },
+    {
+      "id": "xican",
+      "name": "西餐",
+      "parent": "常见菜式",
+      "total": 10
     }
   ]
 }
