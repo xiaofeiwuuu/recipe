@@ -4,6 +4,12 @@
   "updatedAt": "2026-04-07T14:36:36.395Z",
   "categories": [
     {
+      "id": "xican",
+      "name": "沙拉",
+      "parent": "常见菜式",
+      "total": 170
+    },
+    {
       "id": "recai",
       "name": "热菜",
       "parent": "常见菜式",
@@ -44,12 +50,6 @@
       "name": "泡酱腌菜",
       "parent": "常见菜式",
       "total": 1000
-    },
-    {
-      "id": "xican",
-      "name": "西餐",
-      "parent": "常见菜式",
-      "total": 170
     }
   ]
 }
