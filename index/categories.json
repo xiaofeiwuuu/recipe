@@ -1,1 +1,43 @@
-{"total":6,"totalRecipes":8575,"updatedAt":"2026-04-07T09:14:39.436Z","categories":[{"id":"recai","name":"热菜","parent":"常见菜式","total":1858},{"id":"liangcai","name":"凉菜","parent":"常见菜式","total":1594},{"id":"tanggeng","name":"汤羹","parent":"常见菜式","total":1737},{"id":"zhushi","name":"主食","parent":"常见菜式","total":1698},{"id":"xiaochi","name":"小吃","parent":"常见菜式","total":1688},{"id":"jiachang","name":"家常菜","parent":"常见菜式","total":20}]}
+{
+  "total": 6,
+  "totalRecipes": 9973,
+  "updatedAt": "2026-04-07T09:16:07.323Z",
+  "categories": [
+    {
+      "id": "recai",
+      "name": "热菜",
+      "parent": "常见菜式",
+      "total": 2000
+    },
+    {
+      "id": "liangcai",
+      "name": "凉菜",
+      "parent": "常见菜式",
+      "total": 2000
+    },
+    {
+      "id": "tanggeng",
+      "name": "汤羹",
+      "parent": "常见菜式",
+      "total": 2000
+    },
+    {
+      "id": "zhushi",
+      "name": "主食",
+      "parent": "常见菜式",
+      "total": 2000
+    },
+    {
+      "id": "xiaochi",
+      "name": "小吃",
+      "parent": "常见菜式",
+      "total": 1943
+    },
+    {
+      "id": "jiachang",
+      "name": "家常菜",
+      "parent": "常见菜式",
+      "total": 30
+    }
+  ]
+}
