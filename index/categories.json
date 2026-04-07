@@ -1,7 +1,7 @@
 {
   "total": 8,
-  "totalRecipes": 11307,
-  "updatedAt": "2026-04-07T14:01:59.875Z",
+  "totalRecipes": 11317,
+  "updatedAt": "2026-04-07T14:04:27.952Z",
   "categories": [
     {
       "id": "recai",
@@ -49,7 +49,7 @@
       "id": "xican",
       "name": "西餐",
       "parent": "常见菜式",
-      "total": 30
+      "total": 40
     }
   ]
 }
