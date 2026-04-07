@@ -1,7 +1,7 @@
 {
   "total": 6,
-  "totalRecipes": 10233,
-  "updatedAt": "2026-04-07T10:13:02.819Z",
+  "totalRecipes": 10243,
+  "updatedAt": "2026-04-07T10:15:20.787Z",
   "categories": [
     {
       "id": "recai",
@@ -37,7 +37,7 @@
       "id": "jiachang",
       "name": "家常菜",
       "parent": "常见菜式",
-      "total": 290
+      "total": 300
     }
   ]
 }
