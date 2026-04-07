@@ -1,7 +1,7 @@
 {
   "total": 5,
-  "totalRecipes": 8635,
-  "updatedAt": "2026-04-07T02:29:14.512Z",
+  "totalRecipes": 8645,
+  "updatedAt": "2026-04-07T02:31:36.422Z",
   "categories": [
     {
       "id": "recai",
@@ -31,7 +31,7 @@
       "id": "xiaochi",
       "name": "小吃",
       "parent": "常见菜式",
-      "total": 635
+      "total": 645
     }
   ]
 }
