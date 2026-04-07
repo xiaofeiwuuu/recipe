@@ -1,7 +1,7 @@
 {
   "total": 7,
-  "totalRecipes": 10847,
-  "updatedAt": "2026-04-07T12:24:47.751Z",
+  "totalRecipes": 10857,
+  "updatedAt": "2026-04-07T12:26:55.048Z",
   "categories": [
     {
       "id": "recai",
@@ -43,7 +43,7 @@
       "id": "jiangpaoyancai",
       "name": "泡酱腌菜",
       "parent": "常见菜式",
-      "total": 570
+      "total": 580
     }
   ]
 }
